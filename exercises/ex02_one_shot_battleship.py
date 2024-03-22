@@ -1,6 +1,6 @@
 """EX02 - One Shot Battleship - Battleship adding more details."""
 
-__author__ = 730482646
+__author__ = "730482646"
 
 BLUE_BOX: str = "\U0001F7E6"
 RED_BOX: str = "\U0001F7E5"
